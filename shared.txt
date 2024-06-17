@@ -1,1 +1,4 @@
+This is a shared file.
+A: I don't like conflicts :(
+=======
 B: Creating a conflict here ...
