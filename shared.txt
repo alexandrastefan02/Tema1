@@ -1,6 +1,2 @@
-
 This is a shared file.
 A: I don't like conflicts :(
-<3
-B: Creating a conflict here ...
-
